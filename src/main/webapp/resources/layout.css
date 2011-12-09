@@ -1,0 +1,64 @@
+
+/* This layout came from http://csseasy.com with very few changes applied. */
+
+body {
+	width:950px;
+	margin:0 auto;
+	margin-top:30px;
+}
+
+/* ----- HEADER ----- */
+
+#header {
+	width:950px;
+	height:90px;
+	background:url(MDMonCloud.jpg);
+}
+
+#app_title {
+	position: relative;
+	left: 610px;
+	top: 93px;
+	width: 270px;
+	font-family: sans-serif;
+	font-family: 'arial rounded MT bold';
+	font-size: 18pt;
+	color: silver;
+}
+
+/* ----- NAVIGATION ----- */
+
+#navigation {
+	width:950px;
+	height:40px;
+	background-color:white;
+	margin-top:5px;
+	font-family:sans-serif;
+}
+
+/* ----- MAIN CONTENT ----- */
+
+#content { 
+	width:800px;
+	background-color:#ffffff;
+	margin-top:1px;
+	min-height:500px; /* for modern browsers */
+	height:auto !important; /* for modern browsers */
+	height:500px; /* for IE5.x and IE6 */
+	font-family:sans-serif;
+}
+
+/* ----- FOOTER ----- */
+/* NOT USED */
+
+#footer { 
+	width:950px;
+	height:30px;
+	background-color:#7ccaef;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+/* ---- MISC ---- */
+
+.nobr { white-space:nowrap }

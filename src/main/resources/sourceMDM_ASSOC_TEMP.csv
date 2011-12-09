@@ -1,0 +1,70 @@
+FROM_PARTY_ID__C,PARTY_ASSOCIATION_TYPE__C,TO_PARTY_ID__C,COMMENT__C,SOURCE_SYSTEM__C,FROM_PARTY_CLASS__C,TO_PARTY_CLASS__C
+1937101,Affiliated With,2011501,Affiliated With,ERP,Organization,Person
+1937102,Affiliated With,2011502,Affiliated With,ERP,Organization,Person
+1937103,Employed by ,2011503,Employed by ,ERP,Organization,Person
+1937104,Affiliated With,2011504,Affiliated With,ERP,Organization,Person
+1937105,Affiliated With,2011505,Affiliated With,ERP,Organization,Person
+1937106,Employed by ,2011506,Employed by ,ERP,Organization,Person
+1937107,Employed by ,2011507,Employed by ,ERP,Organization,Person
+1937108,Affiliated With,2011508,Affiliated With,ERP,Organization,Person
+1937109,Employed by ,2011509,Employed by ,ERP,Organization,Person
+1937110,Employed by ,2011510,Employed by ,ERP,Organization,Person
+1937111,Affiliated With,2011511,Affiliated With,ERP,Organization,Person
+1937112,Affiliated With,2011512,Affiliated With,ERP,Organization,Person
+1937113,Employed by ,2011513,Employed by ,ERP,Organization,Person
+1937114,Affiliated With,2011514,Affiliated With,ERP,Organization,Person
+1937115,Affiliated With,2011515,Affiliated With,ERP,Organization,Person
+1937116,Employed by ,2011516,Employed by ,ERP,Organization,Person
+1937117,Employed by ,2011517,Employed by ,ERP,Organization,Person
+1937118,Affiliated With,2011518,Affiliated With,ERP,Organization,Person
+1937119,Employed by ,2011519,Employed by ,ERP,Organization,Person
+1937120,Employed by ,2011520,Employed by ,ERP,Organization,Person
+1937121,Affiliated With,2011521,Affiliated With,ERP,Organization,Person
+1937122,Affiliated With,2011522,Affiliated With,ERP,Organization,Person
+1937123,Employed by ,2011523,Employed by ,ERP,Organization,Person
+1937124,Affiliated With,2011524,Affiliated With,ERP,Organization,Person
+1937125,Affiliated With,2011525,Affiliated With,ERP,Organization,Person
+1937126,Employed by ,2011526,Employed by ,ERP,Organization,Person
+1937127,Employed by ,2011527,Employed by ,ERP,Organization,Person
+1937128,Affiliated With,2011528,Affiliated With,ERP,Organization,Person
+1937129,Employed by ,2011529,Employed by ,ERP,Organization,Person
+1937130,Employed by ,2011530,Employed by ,ERP,Organization,Person
+2011501,Affiliated With,1937101,Affiliated with,ERP,Person,Organization
+2011502,Affiliated With,1937102,Affiliated with,ERP,Person,Organization
+2011503,Affiliated With,1937103,Affiliated With (Primary),ERP,Person,Organization
+2011504,Affiliated With,1937104,Affiliated With (Primary),ERP,Person,Organization
+2011505,Employed by,1937105,Employed by (Primary),ERP,Person,Organization
+2011506,Employed by,1937106,Employed by (Primary),ERP,Person,Organization
+2011507,Employed by,1937107,Employed by (Primary),ERP,Person,Organization
+2011508,Employed by,1937108,Employed by (Primary),ERP,Person,Organization
+2011509,Employed by,1937109,Employed by (Primary),ERP,Person,Organization
+2011510,Employed by,1937110,Employed by (Primary),ERP,Person,Organization
+2011511,Affiliated With,1937111,Affiliated with,ERP,Person,Organization
+2011512,Affiliated With,1937112,Affiliated with,ERP,Person,Organization
+2011513,Affiliated With,1937113,Affiliated With (Primary),ERP,Person,Organization
+2011514,Affiliated With,1937114,Affiliated With (Primary),ERP,Person,Organization
+2011515,Affiliated With,1937115,Affiliated With (Primary),ERP,Person,Organization
+2011516,Employed by,1937116,Employed by (Primary),ERP,Person,Organization
+2011517,Employed by,1937117,Employed by (Primary),ERP,Person,Organization
+2011518,Employed by,1937118,Employed by (Primary),ERP,Person,Organization
+2011519,Employed by,1937119,Employed by (Primary),ERP,Person,Organization
+2011520,Employed by,1937120,Employed by (Primary),ERP,Person,Organization
+2011521,Employed by,1937121,Employed by (Primary),ERP,Person,Organization
+2011522,Affiliated With,1937122,Affiliated with,ERP,Person,Organization
+2011523,Affiliated With,1937123,Affiliated with,ERP,Person,Organization
+2011524,Affiliated With,1937124,Affiliated With (Primary),ERP,Person,Organization
+2011525,Affiliated With,1937125,Affiliated With (Primary),ERP,Person,Organization
+2011526,Affiliated With,1937126,Affiliated With (Primary),ERP,Person,Organization
+2011527,Employed by,1937127,Employed by (Primary),ERP,Person,Organization
+2011528,Employed by,1937128,Employed by (Primary),ERP,Person,Organization
+2011529,Employed by,1937129,Employed by (Primary),ERP,Person,Organization
+2011530,Employed by,1937130,Employed by (Primary),ERP,Person,Organization
+19191969,Employed by,3015555,Employed by (Primary),ERP,Person,Organization
+19191970,Affiliated With,20121936,Affiliated with,ERP,Person,Organization
+19191971,Affiliated With,20121937,Affiliated with,ERP,Person,Organization
+19191972,Affiliated With,20121938,Affiliated With (Primary),ERP,Person,Organization
+19191973,Affiliated With,20121939,Affiliated With (Primary),ERP,Person,Organization
+19191974,Affiliated With,20121940,Affiliated With (Primary),ERP,Person,Organization
+19191975,Employed by,20121941,Employed by (Primary),ERP,Person,Organization
+19191976,Employed by,20121942,Employed by (Primary),ERP,Person,Organization
+19191977,Employed by,20121943,Employed by (Primary),ERP,Person,Organization

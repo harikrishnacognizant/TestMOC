@@ -1,0 +1,61 @@
+PARTY_ID__C,CHILD_CLASSIFICATION_CODE__C ,COMMENT__C,SOURCE_SYSTEM__C,PARENT_CLASSIFICATION_TYPE__C,CHILD_CLASSIFICATION_TYPE__C,PARENT_CLASSIFICATION_CODE__C,PARTY_CLASS_CODE__C
+1937101,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937102,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937103,ION,ION Membership,ERP,ION Membership,ION,ION Membership,Organization
+1937104,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937105,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937106,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937107,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937108,ION,ION Membership,ERP,ION Membership,ION,ION Membership,Organization
+1937109,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937110,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937111,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937112,ION,ION Membership,ERP,ION Membership,ION,ION Membership,Organization
+1937113,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937114,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937115,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937116,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937117,ION,ION Membership,ERP,ION Membership,ION,ION Membership,Organization
+1937118,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937119,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937120,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937121,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937122,ION,ION Membership,ERP,ION Membership,ION,ION Membership,Organization
+1937123,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937124,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937125,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937126,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937127,ION,ION Membership,ERP,ION Membership,ION,ION Membership,Organization
+1937128,,Product Sales,ERP,Product Sales,Product Sales Operations,Product Sales,Organization
+1937129,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+1937130,Source System1 Sub Type,Source System1 Organization Type,ERP,Source System1 Organization Type,Source System1 Sub Type,Source System1 Organization Type,Organization
+2011501,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011502,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011503,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011504,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011505,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011506,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011507,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011508,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011509,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011510,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011511,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011512,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011513,,Prof. Sales Targets,ERP,Prof. Sales Targets,,PST,Person
+2011514,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011515,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011516,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011517,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011518,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011519,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011520,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011521,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011522,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011523,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011524,,Prof. Sales Targets,ERP,Prof. Sales Targets,,PST,Person
+2011525,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011526,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011527,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011528,,Key Opinion Leader,ERP,Key Opinion Leader,,KPL,Person
+2011529,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
+2011530,Oncology (Cancer),Rep Specialty,ERP,Rep Specialty,Oncology (Cancer),RS,Person
